@@ -86,3 +86,4 @@ Contents
    ssstiktok
    snaptik
    ttdownloader
+   tiksave
