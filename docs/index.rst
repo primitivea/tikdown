@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-TikDown: Cara Download Video dan Lagu TikTok Terbaru 2022
+TikDown: Cara Download Video dan Lagu TikTok
 ============================
 
 Di zaman sekarang ini, TikTok sudah menjadi aplikasi populer yang sangat disukai semua orang, terutama anak millennial. Saat ini, hampir setiap pecinta media sosial memiliki aplikasi TikTok di smartphone android mereka. Dalam aplikasi TikTok, Anda bisa mengunduh video yang Anda sukai untuk dilihat sewaktu-waktu. 
