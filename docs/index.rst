@@ -83,4 +83,6 @@ Contents
    :maxdepth: 2
 
    style-guide
-   authors
+   ssstiktok
+   snaptik
+   ttdownloader
