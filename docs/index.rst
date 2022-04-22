@@ -82,6 +82,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
+   fitur-tiktok/index
    style-guide
    ssstiktok
    snaptik
