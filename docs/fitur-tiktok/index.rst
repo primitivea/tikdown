@@ -73,4 +73,4 @@ Demikianlah fitur terbaru TikTok yang bisa Anda pilih dan coba untuk membuat kon
 - `Download Sound TikTok tanpa Aplikasi <https://www.sebuahutas.com/2022/04/cara-download-sound-tiktok-menjadi-mp3.html>`_
 - `Cara bikin suara Google di TikTok <https://www.technolati.com/2022/02/cara-bikin-suara-google-di-whatsapp.html>`_
 - `Cara buat suara Google di Capcut <https://www.sebuahutas.com/2022/03/3-cara-membuat-suara-google-di-capcut.html>`_
-- `www.wameta.id <https://www.wameta.id?`_
+- `www.wameta.id <https://www.wameta.id>`_
